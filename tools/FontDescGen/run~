@@ -1,0 +1,2 @@
+#! /bin/sh
+./FontDescGen.x /mnt/winhd/Code/Project/Plooie/Resource/Fonts/Font_VerdanaBig.txt /mnt/winhd/Code/Project/Plooie/Resource/Fonts/Font_VerdanaBig.rdf

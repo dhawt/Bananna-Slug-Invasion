@@ -1,0 +1,9 @@
+[ disp ]
+fullscreen=0
+xsize=640
+ysize=480
+bpp=16
+
+[ rsrc ]
+paths=data/fonts/
+

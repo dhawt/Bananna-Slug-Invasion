@@ -1,0 +1,26 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<!DOCTYPE KDevPrjSession>
+<KDevPrjSession>
+ <LastCompileConfig>(Default)</LastCompileConfig>
+ <Mainframe MaximizeMode="1" />
+ <DocsAndViews NumberOfDocuments="6" >
+  <Doc0 CursorPosLine="27" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="8" FileName="/home/dhawt/Dev/Bananna/bananna/Evn_Manager.cpp" >
+   <View0 Top="0" Width="667" Attach="1" Height="363" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc0>
+  <Doc1 CursorPosLine="35" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="10" FileName="/home/dhawt/Dev/Bananna/bananna/System_Input.h" >
+   <View0 Top="0" Width="667" Attach="1" Height="363" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc1>
+  <Doc2 CursorPosLine="0" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/dhawt/Dev/Bananna/bananna/System_Input.cpp" >
+   <View0 Top="0" Width="667" Attach="1" Height="363" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc2>
+  <Doc3 CursorPosLine="48" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/dhawt/Dev/Bananna/bananna/Game_Manager.h" >
+   <View0 Top="0" Width="667" Attach="1" Height="363" Left="0" Focus="0" Type="KWriteView" MinMaxMode="0" />
+  </Doc3>
+  <Doc4 CursorPosLine="89" Type="KWriteDoc" NumberOfViews="1" CursorPosCol="0" FileName="/home/dhawt/Dev/Bananna/bananna/Game_Manager.cpp" >
+   <View0 Top="0" Width="667" Attach="1" Height="363" Left="0" Focus="1" Type="KWriteView" MinMaxMode="0" />
+  </Doc4>
+  <Doc5 Type="CDocBrowser" NumberOfViews="1" FileName="/usr/share/doc/HTML/en/kdevelop/reference/C/CONTRIB/intro.html" >
+   <View Top="0" Width="667" Attach="1" Height="363" Left="0" Focus="0" Type="KHTMLView" MinMaxMode="0" />
+  </Doc5>
+ </DocsAndViews>
+</KDevPrjSession>

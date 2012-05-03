@@ -1,0 +1,10 @@
+--- Begin logfile run.log ---
+
+
+System_Resource.cpp (40): Creating config
+System_Input.cpp (76): Event from key: space mapping to: 2,0 state: 1
+System_Input.cpp (87): Event from key: space mapping to: 2,0 state: 0
+System_Input.cpp (76): Event from key: escape mapping to: 1,10 state: 400
+
+
+--- End logfile run.log ---
